@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating function<br>📚 I'm currently learning Data Science<br>🎯 Goals: Learning New Tech<br>🎲 Fun fact: I am Humorous</p>
+<p align="left">✨ Creating Mindset by Coding  <br>📚 I'm currently learning Data Science<br>🎯 Goals: Learning New Tech<br>🎲 Fun fact: I am Humorous</p>
 
 ###
 
